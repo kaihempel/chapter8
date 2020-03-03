@@ -1,6 +1,5 @@
 $HOME/*
 config/
 data/
-modules/
 venv/
 .idea/
